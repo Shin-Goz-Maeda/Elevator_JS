@@ -1,0 +1,60 @@
+/* イメージ画像参照 */
+
+body {
+  margin: 0 auto;
+  padding: 0;
+  width: 800px;
+}
+
+#contents {
+  display: flex;
+  width: 100%;
+  margin: 150px auto;
+  padding: 50px;
+  border: 1px solid #000;
+}
+
+#elevetor {
+  width: 60%;
+}
+
+.floor {
+  height: 100px;
+  margin: 0 30px;
+  background-color: #CCCCCC;
+  border: 3px solid #fff;
+}
+
+#display {
+  width: 10%;
+}
+
+.light {
+  height: 100px;
+  background-color: #CCCCCC;
+  border: 3px solid #fff;
+  margin-right:10px;
+  border-radius: 30px;
+}
+
+#btnBox {
+  display: flex;
+  width: 15%;
+}
+
+.btns {
+  width: 50%;
+}
+
+.btn {
+  height: 100px;
+  margin: 0;
+  background-color: #CCCCCC;
+  border: 3px solid #fff;
+}
+
+p {
+  text-align: center;
+  line-height: 100px;
+  margin: 0;
+}
